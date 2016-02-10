@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Hop.CSharp.Plugins", "Space Hop.CSharp.Plugins.csproj", "{68AAEEDB-9FCE-6F26-D771-3FAEB550AEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Hop.CSharp.Editor", "Space Hop.CSharp.Editor.csproj", "{016B3B0E-9EF5-D399-243F-1E511906149B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68AAEEDB-9FCE-6F26-D771-3FAEB550AEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AAEEDB-9FCE-6F26-D771-3FAEB550AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AAEEDB-9FCE-6F26-D771-3FAEB550AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AAEEDB-9FCE-6F26-D771-3FAEB550AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016B3B0E-9EF5-D399-243F-1E511906149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016B3B0E-9EF5-D399-243F-1E511906149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016B3B0E-9EF5-D399-243F-1E511906149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016B3B0E-9EF5-D399-243F-1E511906149B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
